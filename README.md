@@ -8,4 +8,18 @@
 
 The assignment was to implement this automaton using any programming language and a library that allows to directly code a DFA.
 
+## Versions and Programming Language
+
+**Version of the OS used:** Windows 11.
+**Programming Language:** Python 3.10.12
+**Tools:** IDE Pycharm 2023.2.1 and automata-lib library.
+
+## Convention for the empty string
+
+The convention used for representing the empty string was: 'e'
+
+## Instructions for running the implementation
+
+
+
 
