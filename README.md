@@ -21,8 +21,10 @@ The convention used for representing the empty string was: 'e'
 ## Instructions for running the implementation
 
 **1.** Download the zip file from EAFIT Interactiva.
-\n**2.** Unzip the file and use the cd command in the console to access the folder where the file binary3.py is located.
-\n**3.** Use the next command to install the library automata-lib:
+
+**2.** Unzip the file and use the cd command in the console to access the folder where the file binary3.py is located.
+
+**3.** Use the next command to install the library automata-lib:
 ```
 py -m pip install automata-lib
 ```
