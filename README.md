@@ -20,6 +20,11 @@ The convention used for representing the empty string was: 'e'
 
 ## Instructions for running the implementation
 
+**1.** Download the zip file from EAFIT Interactiva.
+**2.** Unzip the file and use the cd command in the console to access the folder where the file binary3.py is located:
+```
+cd task1
+```
 
 
 
